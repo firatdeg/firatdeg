@@ -33,11 +33,6 @@ I like building functional tools and figuring out how systems work under the hoo
 
 ---
 
-### Get in touch
-
-[![Email](https://img.shields.io/badge/Email-edremitlifirat@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edremitlifirat@gmail.com)
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firatdeg&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
