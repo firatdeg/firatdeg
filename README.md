@@ -2,6 +2,7 @@
 
 Fourth-year Informatics student at **TU Darmstadt**.
 I like building functional tools and figuring out how systems work under the hood.
+Feel free to message me to collab!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=firatdeg&color=blue&style=flat)
 
@@ -9,9 +10,9 @@ I like building functional tools and figuring out how systems work under the hoo
 
 ### About
 
-- Studying Informatik with interests in systems programming, security, and applied AI
+- Studying Informatik with interests in Human Computer Interaction, security, and applied AI
 - I learn best by building things, most of my repos are exactly that
-- Currently exploring lower-level systems work alongside machine learning fundamentals
+- Most of my repos are private. I ship them when they are nearly perfect.
 
 ---
 
@@ -27,9 +28,9 @@ I like building functional tools and figuring out how systems work under the hoo
 
 ### What I'm focused on right now
 
-- Deepening my understanding of C++ and systems-level programming
-- Working through ML fundamentals and building small models
-- Exploring CTFs and security tooling
+- Working on restoring historic texts using tesseract and own ML systems in Fraunhofer.
+- Working on Authorship Attribution in Fraunhofer
+- Working on making obselete systems more modern and more accessible for the disadvantaged.
 
 ---
 
