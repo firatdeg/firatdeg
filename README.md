@@ -28,8 +28,8 @@ Feel free to message me to collab!
 
 ### What I'm focused on right now
 
-- Working on restoring historic texts using tesseract and own ML systems in Fraunhofer.
-- Working on Authorship Attribution in Fraunhofer
+- Working on restoring historic texts using Kraken and own ML systems in Fraunhofer.
+- Working on Authorship Attribution in Fraunhofer, training 3 different AI systems. 
 - Working on making obselete systems more modern and more accessible for the disadvantaged.
 
 ---
